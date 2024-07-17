@@ -37,7 +37,7 @@ jobs:
           echo "pkg-name=${pkg_name}" | tee -a "${GITHUB_OUTPUT}"
       - name: Decide version number
         id: get-product-version
-        uses: hashicorp/actions-set-product-version@v1
+        uses: hashicorp/actions-set-product-version@v2
       - name: Report chosen version number
         run: |
           [ -n "${{steps.get-product-version.outputs.product-version}}" ]
