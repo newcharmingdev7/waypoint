@@ -202,7 +202,7 @@ jobs:
           unzip -j "archive/waypoint_${{env.version}}_linux_${{ matrix.arch }}.zip" -d "$DIR"
           unzip -j "archive/waypoint-entrypoint_${{env.version}}_linux_${{ matrix.arch }}.zip" -d "$DIR"
       - name: Build Docker image
-        uses: hashicorp/actions-docker-build@v1
+        uses: hashicorp/actions-docker-build@v2
         with:
           pkg_name: "waypoint_${{env.version}}"
           dockerfile: CRT.Dockerfile
@@ -234,7 +234,7 @@ jobs:
     steps:
       - uses: actions/checkout@c85c95e3d7251135ab7dc9ce3241c5835cc595a9 # v3.5.3
       - name: Build Docker image
-        uses: hashicorp/actions-docker-build@v1
+        uses: hashicorp/actions-docker-build@v2
         with:
           pkg_name: "waypoint_${{env.version}}"
           dockerfile: CRT.Dockerfile
