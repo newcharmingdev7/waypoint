@@ -76,7 +76,7 @@ require (
 	github.com/improbable-eng/grpc-web v0.13.0
 	github.com/kevinburke/go-bindata v3.23.0+incompatible
 	github.com/kr/text v0.2.0
-	github.com/mitchellh/cli v1.1.2
+	github.com/mitchellh/cli v1.1.5
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/mitchellh/go-glint v0.0.0-20201015034436-f80573c636de
 	github.com/mitchellh/go-homedir v1.1.0
@@ -146,7 +146,6 @@ require (
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver v1.5.0 // indirect
 	github.com/Masterminds/semver/v3 v3.1.1 // indirect
-	github.com/Masterminds/sprig v2.22.0+incompatible // indirect
 	github.com/Masterminds/sprig/v3 v3.2.2 // indirect
 	github.com/Masterminds/squirrel v1.5.3 // indirect
 	github.com/Microsoft/go-winio v0.5.2 // indirect
