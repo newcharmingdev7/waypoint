@@ -14,7 +14,7 @@ require (
 	github.com/aws/aws-sdk-go v1.44.269
 	github.com/bmatcuk/doublestar v1.1.5
 	github.com/buildpacks/pack v0.20.0
-	github.com/cenkalti/backoff/v4 v4.1.2
+	github.com/cenkalti/backoff/v4 v4.3.0
 	github.com/certifi/gocertifi v0.0.0-20200922220541-2c3bb06c6054
 	github.com/containerd/console v1.0.3
 	github.com/creack/pty v1.1.11
