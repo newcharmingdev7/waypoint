@@ -101,7 +101,7 @@ require (
 	github.com/r3labs/diff v1.1.0
 	github.com/sebdah/goldie/v2 v2.5.3
 	github.com/skratchdot/open-golang v0.0.0-20200116055534-eef842397966
-	github.com/slack-go/slack v0.6.5
+	github.com/slack-go/slack v0.14.0
 	github.com/stretchr/testify v1.8.1
 	github.com/vektra/mockery/v2 v2.15.0
 	github.com/zclconf/go-cty v1.8.4
