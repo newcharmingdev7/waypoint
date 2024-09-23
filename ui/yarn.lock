@@ -2789,10 +2789,10 @@ amdefine@>=0.0.4:
   resolved "https://registry.yarnpkg.com/amdefine/-/amdefine-1.0.1.tgz#4a5282ac164729e93619bcfd3ad151f817ce91f5"
   integrity sha1-SlKCrBZHKek2Gbz9OtFR+BfOkfU=
 
-anser@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/anser/-/anser-2.0.0.tgz#93f38b665092f8b91803083ebdaa177c55b822c4"
-  integrity sha512-tiHUIxvmnJ167Dpvx7TS04ZvLUEOXja0aympLFmVXFtx8T2hCxnoOfv60Cj5J2kJKKY4MF41sZnMUy+eal1gug==
+anser@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/anser/-/anser-2.2.0.tgz#1ecb467adda83e98c48f6154feec7c3193b008c5"
+  integrity sha512-iSCG8+SSMC7Ux9QSeO50ZlhqeZOGYFY1jjGgDBLjmbpIsADMTQknuOYTqssera8KQhE/Tt6HTSjY/I+w4GSe+Q==
 
 ansi-colors@^4.1.1:
   version "4.1.1"
